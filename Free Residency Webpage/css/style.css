@@ -1,0 +1,19 @@
+body {
+
+	background-color:pink;
+}
+
+h1 {
+
+	color: blue;
+	font-size: 50px;
+	font-family: garamond;
+
+}
+
+p {
+
+	font-size: 25px;
+	font-family: helvetica;
+	color: white;
+}
